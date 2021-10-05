@@ -8,6 +8,22 @@ header {
   font-size: 20px;
 }
 
+header.heading{
+  text-align: center;
+}
+
+.recipe-img{
+  width: 500px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center{
+  text-align: center;
+}
+
 .list {
   background-color: rgb(163, 158, 158);
   color: rgb(31, 28, 28);
